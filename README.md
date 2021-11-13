@@ -29,6 +29,9 @@ Game features:
 - Button
 - P to pause
 
+About my team
+![About](Screenshots/game_about.png)
+
 Level 1
 ![level 1](Screenshots/game_level1.png)
 
