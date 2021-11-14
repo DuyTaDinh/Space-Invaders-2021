@@ -27,6 +27,8 @@ Game features:
 - 1 boss
 - 4 levels
 - Button
+- Health bar
+- Power-up
 - P to pause
 
 About my team
